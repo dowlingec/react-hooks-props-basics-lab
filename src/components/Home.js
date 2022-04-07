@@ -1,5 +1,5 @@
 import React from "react";
-import User from "../data/user"
+
 
 function Home(props) {
   return (

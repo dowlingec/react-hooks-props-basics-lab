@@ -10,6 +10,3 @@ const User = {
 };
 
 export default User;
-
-// export default ({ name, color, setVisible }) => {
-//     return(
